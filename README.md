@@ -9,10 +9,11 @@
 A simple Snake game built with Python and Pygame.
 ![image](https://github.com/user-attachments/assets/5761d5a8-0d02-4a6f-871f-255e2cef380a)
 
-<html> inst <pic</html>
-<li><a target="_blank" href=""></a></li>
+A simple rock paper scissors game that users can play against a computer
+![image](https://github.com/user-attachments/assets/2be92f21-80b7-4ac5-9cf2-ee0d5e9f3fb2)
+
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/prabhdeep-sidhu-54a325317/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://[www.linkedin.com/in/https://www.linkedin.com/in/prabhdeep-sidhu-54a325317/"](style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Prabhdeep104&show_icons=true&locale=en" alt="Prabhdeep104" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhdeep104&" alt="Prabhdeep104" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prabhdeep104&show_icons=true&locale=en&layout=compact" alt="Prabhdeep104" /></p>
