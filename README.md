@@ -7,8 +7,8 @@
 <ul> Python Snake Game
 
 A simple Snake game built with Python and Pygame.
+![image](https://github.com/user-attachments/assets/5761d5a8-0d02-4a6f-871f-255e2cef380a)
 
-![Snake Game Screenshot](screenshot.png)
 
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
