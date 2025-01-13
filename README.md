@@ -9,7 +9,7 @@
 A simple Snake game built with Python and Pygame.
 ![image](https://github.com/user-attachments/assets/5761d5a8-0d02-4a6f-871f-255e2cef380a)
 
-<ul> Rock Paper Scissors
+<u1> Rock Paper Scissors</h2>
   
 A simple rock paper scissors game that users can play against a computer
 ![image](https://github.com/user-attachments/assets/2be92f21-80b7-4ac5-9cf2-ee0d5e9f3fb2)
